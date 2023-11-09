@@ -1,0 +1,101 @@
+ID_Cliente,Nome_Cliente,Apelido,Sexo,Faixa_Etária,Status_Familiar,Preferências,ID_Produto,Nome_Produto,Categoria_Produto,Descrição_Básica,Tags
+C12354,Ana Clara,Bruninho,Masculino,45-54,Solteiro,"Séries, Livros, Bem-estar",P138,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,lazer
+C12355,Ana Clara,Dan,Masculino,25-34,Casado,"Esportes, Tecnologia, Carros",P139,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,qualidade
+C12356,Daniel Rocha,Dan,Masculino,45-54,Mãe,"Moda, Negócios, Viagens",P140,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,tecnologia
+C12357,Elisa Nunes,Fabinho,Feminino,35-44,Pai,"Moda, Negócios, Viagens",P141,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,tecnologia
+C12358,Daniel Rocha,Elis,Feminino,65+,Casado,"Esportes, Tecnologia, Carros",P142,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,qualidade
+C12359,Carla Siqueira,Bruninho,Masculino,65+,Casado,"Jogos, Tecnologia, Filmes",P143,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,lazer
+C12360,Elisa Nunes,Aninha,Feminino,25-34,Pai,"Moda, Negócios, Viagens",P144,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,conforto
+C12361,Bruno Gomes,Bruninho,Feminino,35-44,Pai,"Esportes, Tecnologia, Carros",P145,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,praticidade
+C12362,Elisa Nunes,Aninha,Feminino,55-64,Pai,"Esportes, Tecnologia, Carros",P146,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,praticidade
+C12363,Bruno Gomes,Cacau,Feminino,55-64,Casado,"Música, Viagens, Fotografia",P147,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,viagem
+C12364,Daniel Rocha,Elis,Masculino,55-64,Mãe,"Fitness, Saúde, Gastronomia",P148,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,conforto
+C12365,Elisa Nunes,Dan,Masculino,55-64,Pai,"Fitness, Saúde, Gastronomia",P149,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,lazer
+C12366,Ana Clara,Elis,Feminino,45-54,Casado,"Fitness, Saúde, Gastronomia",P150,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,lazer
+C12367,Bruno Gomes,Dan,Feminino,35-44,Mãe,"Fitness, Saúde, Gastronomia",P151,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,conforto
+C12368,Ana Clara,Bruninho,Feminino,45-54,Casado,"Fitness, Saúde, Gastronomia",P152,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,viagem
+C12369,Ana Clara,Fabinho,Masculino,18-24,Solteiro,"Esportes, Tecnologia, Carros",P153,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,viagem
+C12370,Fábio Lopes,Fabinho,Masculino,55-64,Mãe,"Música, Viagens, Fotografia",P154,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,conforto
+C12371,Bruno Gomes,Aninha,Feminino,25-34,Casado,"Fitness, Saúde, Gastronomia",P155,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,tecnologia
+C12372,Daniel Rocha,Aninha,Masculino,45-54,Casado,"Moda, Negócios, Viagens",P156,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,viagem
+C12373,Carla Siqueira,Aninha,Feminino,65+,Pai,"Fitness, Saúde, Gastronomia",P157,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,viagem
+C12374,Fábio Lopes,Bruninho,Masculino,55-64,Pai,"Fitness, Saúde, Gastronomia",P158,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,viagem
+C12375,Ana Clara,Cacau,Feminino,45-54,Pai,"Séries, Livros, Bem-estar",P159,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,qualidade
+C12376,Ana Clara,Aninha,Masculino,35-44,Mãe,"Séries, Livros, Bem-estar",P160,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,conforto
+C12377,Carla Siqueira,Fabinho,Masculino,45-54,Pai,"Esportes, Tecnologia, Carros",P161,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,praticidade
+C12378,Fábio Lopes,Bruninho,Masculino,55-64,Mãe,"Séries, Livros, Bem-estar",P162,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,lazer
+C12379,Elisa Nunes,Dan,Masculino,65+,Pai,"Esportes, Tecnologia, Carros",P163,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,conforto
+C12380,Carla Siqueira,Dan,Masculino,25-34,Solteiro,"Música, Viagens, Fotografia",P164,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,conforto
+C12381,Carla Siqueira,Cacau,Feminino,35-44,Casado,"Fitness, Saúde, Gastronomia",P165,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,lazer
+C12382,Fábio Lopes,Cacau,Feminino,35-44,Mãe,"Moda, Negócios, Viagens",P166,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,viagem
+C12383,Carla Siqueira,Fabinho,Feminino,35-44,Pai,"Jogos, Tecnologia, Filmes",P167,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,conforto
+C12384,Carla Siqueira,Fabinho,Feminino,25-34,Mãe,"Fitness, Saúde, Gastronomia",P168,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,conforto
+C12385,Bruno Gomes,Cacau,Feminino,35-44,Pai,"Fitness, Saúde, Gastronomia",P169,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,praticidade
+C12386,Carla Siqueira,Fabinho,Masculino,65+,Casado,"Fitness, Saúde, Gastronomia",P170,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,conforto
+C12387,Ana Clara,Elis,Feminino,35-44,Pai,"Séries, Livros, Bem-estar",P171,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,qualidade
+C12388,Daniel Rocha,Aninha,Feminino,45-54,Pai,"Fitness, Saúde, Gastronomia",P172,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,conforto
+C12389,Fábio Lopes,Elis,Masculino,45-54,Solteiro,"Música, Viagens, Fotografia",P173,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,conforto
+C12390,Ana Clara,Bruninho,Feminino,25-34,Mãe,"Fitness, Saúde, Gastronomia",P174,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,lazer
+C12391,Fábio Lopes,Fabinho,Masculino,18-24,Mãe,"Jogos, Tecnologia, Filmes",P175,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,lazer
+C12392,Elisa Nunes,Cacau,Feminino,25-34,Mãe,"Esportes, Tecnologia, Carros",P176,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,tecnologia
+C12393,Elisa Nunes,Bruninho,Feminino,18-24,Solteiro,"Jogos, Tecnologia, Filmes",P177,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,praticidade
+C12394,Carla Siqueira,Cacau,Feminino,55-64,Casado,"Música, Viagens, Fotografia",P178,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,qualidade
+C12395,Ana Clara,Bruninho,Feminino,25-34,Casado,"Séries, Livros, Bem-estar",P179,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,conforto
+C12396,Ana Clara,Aninha,Feminino,18-24,Mãe,"Séries, Livros, Bem-estar",P180,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,tecnologia
+C12397,Daniel Rocha,Fabinho,Feminino,65+,Solteiro,"Jogos, Tecnologia, Filmes",P181,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,qualidade
+C12398,Bruno Gomes,Elis,Feminino,65+,Mãe,"Moda, Negócios, Viagens",P182,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,qualidade
+C12399,Elisa Nunes,Aninha,Feminino,25-34,Solteiro,"Fitness, Saúde, Gastronomia",P183,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,praticidade
+C12400,Ana Clara,Cacau,Feminino,25-34,Pai,"Jogos, Tecnologia, Filmes",P184,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,tecnologia
+C12401,Carla Siqueira,Aninha,Feminino,55-64,Casado,"Jogos, Tecnologia, Filmes",P185,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,viagem
+C12402,Fábio Lopes,Aninha,Masculino,45-54,Casado,"Fitness, Saúde, Gastronomia",P186,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,conforto
+C12403,Elisa Nunes,Bruninho,Masculino,55-64,Pai,"Jogos, Tecnologia, Filmes",P187,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,praticidade
+C12404,Elisa Nunes,Fabinho,Feminino,45-54,Solteiro,"Música, Viagens, Fotografia",P188,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,lazer
+C12405,Elisa Nunes,Aninha,Feminino,25-34,Casado,"Moda, Negócios, Viagens",P189,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,tecnologia
+C12406,Fábio Lopes,Fabinho,Masculino,25-34,Mãe,"Séries, Livros, Bem-estar",P190,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,viagem
+C12407,Bruno Gomes,Bruninho,Feminino,18-24,Mãe,"Esportes, Tecnologia, Carros",P191,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,viagem
+C12408,Elisa Nunes,Aninha,Feminino,18-24,Pai,"Moda, Negócios, Viagens",P192,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,tecnologia
+C12409,Ana Clara,Elis,Feminino,35-44,Casado,"Jogos, Tecnologia, Filmes",P193,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,praticidade
+C12410,Fábio Lopes,Dan,Feminino,65+,Casado,"Jogos, Tecnologia, Filmes",P194,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,lazer
+C12411,Bruno Gomes,Dan,Masculino,45-54,Casado,"Fitness, Saúde, Gastronomia",P195,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,viagem
+C12412,Ana Clara,Cacau,Masculino,18-24,Mãe,"Esportes, Tecnologia, Carros",P196,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,conforto
+C12413,Daniel Rocha,Fabinho,Masculino,55-64,Pai,"Séries, Livros, Bem-estar",P197,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,qualidade
+C12414,Fábio Lopes,Aninha,Feminino,45-54,Mãe,"Jogos, Tecnologia, Filmes",P198,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,qualidade
+C12415,Bruno Gomes,Cacau,Masculino,45-54,Casado,"Jogos, Tecnologia, Filmes",P199,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,praticidade
+C12416,Elisa Nunes,Dan,Feminino,45-54,Pai,"Música, Viagens, Fotografia",P200,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,tecnologia
+C12417,Bruno Gomes,Cacau,Masculino,55-64,Pai,"Séries, Livros, Bem-estar",P201,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,praticidade
+C12418,Ana Clara,Fabinho,Masculino,25-34,Solteiro,"Jogos, Tecnologia, Filmes",P202,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,tecnologia
+C12419,Carla Siqueira,Cacau,Feminino,65+,Solteiro,"Fitness, Saúde, Gastronomia",P203,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,viagem
+C12420,Bruno Gomes,Bruninho,Masculino,55-64,Pai,"Jogos, Tecnologia, Filmes",P204,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,viagem
+C12421,Ana Clara,Fabinho,Masculino,55-64,Pai,"Jogos, Tecnologia, Filmes",P205,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,conforto
+C12422,Fábio Lopes,Elis,Feminino,65+,Casado,"Moda, Negócios, Viagens",P206,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,lazer
+C12423,Elisa Nunes,Bruninho,Masculino,65+,Pai,"Jogos, Tecnologia, Filmes",P207,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,lazer
+C12424,Bruno Gomes,Aninha,Masculino,18-24,Casado,"Fitness, Saúde, Gastronomia",P208,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,tecnologia
+C12425,Fábio Lopes,Elis,Masculino,55-64,Pai,"Fitness, Saúde, Gastronomia",P209,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,conforto
+C12426,Elisa Nunes,Cacau,Masculino,65+,Solteiro,"Séries, Livros, Bem-estar",P210,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,qualidade
+C12427,Bruno Gomes,Cacau,Feminino,45-54,Casado,"Moda, Negócios, Viagens",P211,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,viagem
+C12428,Bruno Gomes,Dan,Feminino,65+,Mãe,"Fitness, Saúde, Gastronomia",P212,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,qualidade
+C12429,Bruno Gomes,Cacau,Masculino,45-54,Solteiro,"Fitness, Saúde, Gastronomia",P213,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,conforto
+C12430,Daniel Rocha,Aninha,Feminino,65+,Pai,"Esportes, Tecnologia, Carros",P214,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,praticidade
+C12431,Ana Clara,Cacau,Feminino,18-24,Pai,"Jogos, Tecnologia, Filmes",P215,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,lazer
+C12432,Fábio Lopes,Bruninho,Feminino,65+,Pai,"Jogos, Tecnologia, Filmes",P216,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,conforto
+C12433,Carla Siqueira,Cacau,Masculino,55-64,Mãe,"Esportes, Tecnologia, Carros",P217,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,tecnologia
+C12434,Carla Siqueira,Cacau,Masculino,18-24,Casado,"Séries, Livros, Bem-estar",P218,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,qualidade
+C12435,Carla Siqueira,Bruninho,Feminino,45-54,Casado,"Moda, Negócios, Viagens",P219,Câmera DSLR,Eletrônicos,Câmera profissional com recursos avançados para fotografia.,lazer
+C12436,Daniel Rocha,Aninha,Feminino,65+,Mãe,"Jogos, Tecnologia, Filmes",P220,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,tecnologia
+C12437,Ana Clara,Fabinho,Masculino,55-64,Casado,"Música, Viagens, Fotografia",P221,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,viagem
+C12438,Fábio Lopes,Fabinho,Feminino,65+,Pai,"Música, Viagens, Fotografia",P222,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,conforto
+C12439,Ana Clara,Bruninho,Feminino,35-44,Solteiro,"Séries, Livros, Bem-estar",P223,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,tecnologia
+C12440,Carla Siqueira,Elis,Feminino,18-24,Pai,"Jogos, Tecnologia, Filmes",P224,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,conforto
+C12441,Carla Siqueira,Dan,Masculino,25-34,Solteiro,"Fitness, Saúde, Gastronomia",P225,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,praticidade
+C12442,Fábio Lopes,Fabinho,Feminino,35-44,Solteiro,"Esportes, Tecnologia, Carros",P226,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,lazer
+C12443,Daniel Rocha,Aninha,Feminino,18-24,Casado,"Moda, Negócios, Viagens",P227,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,qualidade
+C12444,Elisa Nunes,Dan,Masculino,35-44,Mãe,"Música, Viagens, Fotografia",P228,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,tecnologia
+C12445,Fábio Lopes,Cacau,Feminino,25-34,Casado,"Jogos, Tecnologia, Filmes",P229,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,qualidade
+C12446,Carla Siqueira,Fabinho,Feminino,18-24,Casado,"Fitness, Saúde, Gastronomia",P230,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,praticidade
+C12447,Elisa Nunes,Elis,Feminino,55-64,Casado,"Música, Viagens, Fotografia",P231,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,praticidade
+C12448,Carla Siqueira,Elis,Masculino,35-44,Solteiro,"Fitness, Saúde, Gastronomia",P232,Conjunto de Malas de Viagem,Acessórios,Malas de viagem com resistência e rodinhas para fácil locomoção.,qualidade
+C12449,Ana Clara,Bruninho,Masculino,25-34,Casado,"Séries, Livros, Bem-estar",P233,Kit de Jardinagem,Jardim,Conjunto completo de ferramentas para jardinagem.,praticidade
+C12450,Bruno Gomes,Cacau,Feminino,25-34,Casado,"Moda, Negócios, Viagens",P234,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,qualidade
+C12451,Carla Siqueira,Aninha,Feminino,65+,Casado,"Séries, Livros, Bem-estar",P235,Jogo de Panelas Inox,Casa,Conjunto de panelas em aço inoxidável de alta qualidade.,tecnologia
+C12452,Fábio Lopes,Elis,Feminino,25-34,Solteiro,"Séries, Livros, Bem-estar",P236,Smartwatch Avançado,Eletrônicos,Relógio inteligente com monitoramento de saúde e conectividade.,conforto
+C12453,Elisa Nunes,Aninha,Feminino,65+,Solteiro,"Séries, Livros, Bem-estar",P237,Poltrona Reclinável,Móveis,Poltrona reclinável com balanço confortável.,praticidade
